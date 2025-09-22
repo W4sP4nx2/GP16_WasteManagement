@@ -1,1 +1,19 @@
+# Core app framework
+streamlit
+
+# Image processing
+pillow
+opencv-python
+
+# Machine learning / AI
+numpy
+pandas
+scikit-learn
+tensorflow        # or torch (depending on the model you train/use)
+torch             # optional if using PyTorch
+torchvision       # for image models (if PyTorch)
+
+# Utilities
+joblib            # for saving/loading ML models
+matplotlib        # for quick visualizations
 
