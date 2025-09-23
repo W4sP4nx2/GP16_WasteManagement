@@ -5,10 +5,14 @@ streamlit
 pillow
 opencv-python
 
-# Machine learning / AI
-numpy
-pandas
-scikit-learn
+# Data processing
+numpy             #data processing
+pandas            #date processing
+
+#Loading & preprocessing images
+scikit-image      # for loading and preprocessing images
+
+#Deep learning
 tensorflow        # or torch (depending on the model you train/use)
 torch             # optional if using PyTorch
 torchvision       # for image models (if PyTorch)
